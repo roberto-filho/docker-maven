@@ -1,4 +1,4 @@
-FROM java:openjdk-7-jdk
+FROM robertofilho/oracle-java7
 
 ENV MAVEN_VERSION 3.3.9
 
