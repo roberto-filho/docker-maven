@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jdk
+FROM robertofilho/docker-java:java8
 
 ENV MAVEN_VERSION 3.3.9
 
