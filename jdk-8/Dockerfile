@@ -1,4 +1,4 @@
-FROM robertofilho/docker-java:java8
+FROM ibmjava:8-sfj
 
 ENV MAVEN_VERSION 3.3.9
 
